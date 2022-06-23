@@ -1,0 +1,48 @@
+miaoclass --0.0.2
+#更新时间：2022.05.19
+main.py
+统筹各项文件
+    def main(studentname) 
+    作用:根据传入的学生姓名
+    1、匹配学号并检索用户数据表是否已存在，若不存在则添加
+        调用模块 addmysql  调用函数 adduser()
+    2、根据姓名和学号模拟查课表并返回课表数据
+        调用模块 getdata   调用函数 getdata()
+    3、根据课表数据添加到指定表中
+        调用模块 addmysql  调用函数 addclass()
+    4、结束，关闭浏览器模拟
+
+addmysql.py
+操作数据库相关函数
+    def adduser(searchname)
+    作用：将用户信息填入用户表并获得唯一ID
+    1、调用QQ号获取函数，收集用户QQ账号
+    2、根据传入的姓名参数查找学号并形成student数组
+        调用模块 studentdata  调用函数 searchstudent()
+    3、根据学号检索用户是否存在，若不存在则添加，若存在则返回
+    3、执行sql将student数组传入数据库
+
+    def  addclass()
+    作用：将查到的课表导入数据库中
+    
+
+getdata.py
+根据汤分析清洗数据，获得课表
+    def getdata(soup)
+    作用：分析清洗数据，获得课表内容
+    1、解析soup，定位数据位置
+    2、return classname, teachername, weektime, weekjudge
+
+studentdata.py
+存着学生学号和姓名的信息，根据姓名检索学号用的
+    def searchstudent(studentname)
+    作用：根据姓名检索学号
+    1、利用正则匹配姓名和学号(已知bug：重名匹配问题)
+    2、return bj[name:name+numlength+16] 返回姓名+学号
+
+createtablesql.py
+建表用的，初始化的时候调一下就行，平时不用调
+
+scadb.py
+扫描数据库的语句
+    def scandb(weekday,classtime,studentid)

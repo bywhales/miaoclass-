@@ -1,0 +1,51 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import nonebot
+from nonebot.adapters.onebot.v11 import Adapter as ONEBOT_V11Adapter
+import matcher
+from nonebot import on_message
+from nonebot import message
+from zmq import Message
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf8')
+# Custom your logger
+#
+# from nonebot.log import logger, default_format
+# logger.add("error.log",
+#            rotation="00:00",
+#            diagnose=False,
+#            level="ERROR",
+#            format=default_format)
+
+# You can pass some keyword args config to init function
+nonebot.init()
+app = nonebot.get_asgi()
+
+driver = nonebot.get_driver()
+driver.register_adapter(ONEBOT_V11Adapter, bot_id='miaoclass')
+nonebot.load_builtin_plugins("echo")  # 回声测试
+nonebot.load_plugin('nonebot_plugin_gocqhttp')  # gocqhttp链接
+nonebot.load_plugin('nonebot_plugin_status')  # 查看服务器状态插件
+nonebot.load_plugin("nonebot_plugin_youthstudy")  # 导入青年大学习
+nonebot.load_plugin("nonebot_plugin_covid19_news")  # 导入疫情查询
+# Please DO NOT modify this file unless you know what you are doing!
+# As an alternative, you should use command `nb` or modify `pyproject.toml` to load plugins
+nonebot.load_from_toml("pyproject.toml")
+
+# Modify some config / config depends on loaded configs
+#
+# config = driver.config
+# do something...
+
+nonebot.init(apscheduler_autostart=True)
+nonebot.init(apscheduler_config={
+    "apscheduler.timezone": "Asia/Shanghai"
+})
+
+
+if __name__ == "__main__":
+    nonebot.logger.warning(
+        "Always use `nb run` to start the bot instead of manually running!")
+    nonebot.run(app="__mp_main__:app")
