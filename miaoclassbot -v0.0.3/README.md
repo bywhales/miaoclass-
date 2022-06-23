@@ -1,4 +1,4 @@
-# amiyabot
+# miaoclassbot
 
 ## How to start
 
