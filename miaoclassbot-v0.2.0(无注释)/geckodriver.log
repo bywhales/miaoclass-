@@ -1,0 +1,1483 @@
+1655820499151	geckodriver	INFO	Listening on 127.0.0.1:42756
+1655820499192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef9dh4T"
+Error: no DISPLAY environment variable specified
+1655820726030	geckodriver	INFO	Listening on 127.0.0.1:37561
+1655820726100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegX3Gtv"
+1655820727285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegX3Gtv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46639/devtools/browser/a00a642d-9751-466b-9e0c-1952753e8af4
+1655820730136	Marionette	INFO	Listening on port 37915
+1655820730198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655820857877	geckodriver	INFO	Listening on 127.0.0.1:47438
+1655820858420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1SioSe"
+1655820859631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1SioSe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44041/devtools/browser/35ff7a58-fe73-40bd-a5bc-d7359214d512
+1655820862652	Marionette	INFO	Listening on port 39217
+1655820862745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655821942729	geckodriver	INFO	Listening on 127.0.0.1:33987
+1655821942779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUolFIS"
+1655821944080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUolFIS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58674/devtools/browser/e8b4b341-880a-4cf4-9b61-371a9d0e7b10
+1655821947084	Marionette	INFO	Listening on port 43306
+1655821947199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655821955417	Marionette	INFO	Stopped listening on port 43306
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655821955997	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655822120129	geckodriver	INFO	Listening on 127.0.0.1:41632
+1655822120733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDOmvjW"
+1655822121979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDOmvjW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35873/devtools/browser/a6932531-e0a4-4e8f-84b8-324d2ede4d10
+1655822124592	Marionette	INFO	Listening on port 38153
+1655822124670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655822145394	Marionette	INFO	Stopped listening on port 38153
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655822145921	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655822150666	geckodriver	INFO	Listening on 127.0.0.1:34998
+1655822151243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4czspO"
+1655822152709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4czspO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60798/devtools/browser/ff436643-ebdf-49f4-8dc5-6a118c8d4bf1
+1655822155519	Marionette	INFO	Listening on port 37560
+1655822155598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655822258989	geckodriver	INFO	Listening on 127.0.0.1:60400
+1655822259534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledpSytb"
+1655822260626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledpSytb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45550/devtools/browser/c29e6a9b-04ba-49d2-a497-4206c8b2e6ce
+1655822263200	Marionette	INFO	Listening on port 38504
+1655822263343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655822291566	Marionette	INFO	Stopped listening on port 38504
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1655822292465	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655822294744	Marionette	INFO	Stopped listening on port 37560
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1655822295047	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655823084728	geckodriver	INFO	Listening on 127.0.0.1:60300
+1655823085270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef2qcn2"
+1655823086464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef2qcn2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49806/devtools/browser/d0c63c8a-2e5b-4537-a28c-f91a4db5fc6c
+1655823089078	Marionette	INFO	Listening on port 37422
+1655823089209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655823290775	geckodriver	INFO	Listening on 127.0.0.1:42664
+1655823291375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem9xDtX"
+1655823292461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem9xDtX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56751/devtools/browser/cedde241-e819-478c-91d4-8ca3f1ccd693
+1655823295053	Marionette	INFO	Listening on port 44428
+1655823295178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655823450911	geckodriver	INFO	Listening on 127.0.0.1:43893
+1655823450953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Wklxq"
+1655823452027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Wklxq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41920/devtools/browser/0381e7be-11c4-4635-a28d-c3c5aae039ce
+1655823454796	Marionette	INFO	Listening on port 45556
+1655823454856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655823819066	geckodriver	INFO	Listening on 127.0.0.1:56531
+1655823819141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqVeb0J"
+1655823820517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqVeb0J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56484/devtools/browser/bd3832fb-b83f-4da8-ba6f-d3930cc67071
+1655823823367	Marionette	INFO	Listening on port 40467
+1655823823484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655824014167	geckodriver	INFO	Listening on 127.0.0.1:50209
+1655824014210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekFPebI"
+1655824015294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekFPebI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50607/devtools/browser/58e9b2f2-8335-4f60-9b1b-9ab761b4db74
+1655824018000	Marionette	INFO	Listening on port 35139
+1655824018137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655824372117	geckodriver	INFO	Listening on 127.0.0.1:37765
+1655824372659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileARN7Fq"
+1655824373749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileARN7Fq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58975/devtools/browser/58fa0430-e565-4865-9654-cd4ba3a544f2
+1655824376558	Marionette	INFO	Listening on port 42005
+1655824376690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655824497264	geckodriver	INFO	Listening on 127.0.0.1:55533
+1655824497806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4JbSYO"
+1655824498875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4JbSYO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34480/devtools/browser/5736f267-b06b-4c91-9d6b-10927d684644
+1655824501390	Marionette	INFO	Listening on port 39632
+1655824501499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655824564706	geckodriver	INFO	Listening on 127.0.0.1:43406
+1655824565248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9A6M5O"
+1655824566367	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9A6M5O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49581/devtools/browser/089170d8-c7c1-4633-a8dd-f038ec47ac31
+1655824569091	Marionette	INFO	Listening on port 46716
+1655824569162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655824575701	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655824580792	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655824581539	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1655824605164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655824607547	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1655824621547	Marionette	INFO	Stopped listening on port 46716
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655824622245	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655824735419	geckodriver	INFO	Listening on 127.0.0.1:43314
+1655824735462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemcvWex"
+1655824736544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemcvWex/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59018/devtools/browser/efbfbe9a-aadb-4a3f-bbf3-7047cdee35a0
+1655824738997	Marionette	INFO	Listening on port 40661
+1655824739071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655825326234	geckodriver	INFO	Listening on 127.0.0.1:54574
+1655825326276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTthwR4"
+1655825327380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTthwR4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48196/devtools/browser/3dc2e81b-f1a4-4f7c-8f59-d1a7635cfb0d
+1655825330092	Marionette	INFO	Listening on port 45631
+1655825330273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655827451121	geckodriver	INFO	Listening on 127.0.0.1:59196
+1655827451163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo5GiXE"
+1655827452304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo5GiXE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48067/devtools/browser/2a4afb80-df32-4e8a-aa20-24a60a0827a2
+1655827454965	Marionette	INFO	Listening on port 45421
+1655827455085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655827491777	geckodriver	INFO	Listening on 127.0.0.1:57483
+1655827491863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHc1esp"
+1655827493199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHc1esp/search.json.mozlz4", (void 0)))
+console.warn: "[l10nregistry] Attempting to synchronously load file\n            resource://langpack-zh-TW-browser/browser/localization/zh-TW/browser/appmenu.ftl while it's being loaded asynchronously."
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+DevTools listening on ws://localhost:46886/devtools/browser/29ec821d-7ead-45ce-899b-2b9c9d075919
+!!! error running onStopped callback: TypeError: callback is not a function
+1655827496467	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://remote/content/marionette/server.js :: set acceptConnections :: line 89"  data: no] Stack trace: set acceptConnections()@server.js:89
+start()@server.js:114
+init/<()@jar:file:///usr/lib64/firefox/omni.ja!/components/marionette.js:269
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1655827496755	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655827646557	geckodriver	INFO	Listening on 127.0.0.1:58381
+1655827646613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR28uCR"
+1655827648124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR28uCR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55386/devtools/browser/cbc2f198-a3b8-44de-a06a-20b5bda1f12f
+1655827651211	Marionette	INFO	Listening on port 46692
+1655827651263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655827928990	geckodriver	INFO	Listening on 127.0.0.1:54324
+1655827929196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOJK8wJ"
+1655827930269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOJK8wJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59439/devtools/browser/f4750538-d77c-4d3b-8764-90e14a34d582
+1655827933389	Marionette	INFO	Listening on port 34836
+1655827933444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655861078599	geckodriver	INFO	Listening on 127.0.0.1:43894
+1655861078898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebdxYwg"
+1655861080357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebdxYwg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52301/devtools/browser/44531aff-7b63-4b25-8da6-5d4295db3686
+1655861082933	Marionette	INFO	Listening on port 39670
+1655861082989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655861368820	geckodriver	INFO	Listening on 127.0.0.1:33615
+1655861369367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen9KL8b"
+1655861370716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen9KL8b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39512/devtools/browser/0aad03b7-76df-4acf-82a9-75e76b888a16
+1655861373658	Marionette	INFO	Listening on port 45838
+1655861373706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655861384706	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655862019113	geckodriver	INFO	Listening on 127.0.0.1:52524
+1655862019158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEOjMAa"
+1655862020340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEOjMAa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46854/devtools/browser/9dc29d81-8f9d-4ca4-927b-1356aa27b687
+1655862023089	Marionette	INFO	Listening on port 35964
+1655862023151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655862071179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862074322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862232390	Marionette	INFO	Stopped listening on port 35964
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1655862232717	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655862399924	geckodriver	INFO	Listening on 127.0.0.1:47353
+1655862399971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZu8pyT"
+1655862401082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZu8pyT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57951/devtools/browser/28c5036a-e786-41d2-970f-0853316d0085
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1655862403952	Marionette	INFO	Listening on port 38831
+1655862403996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655862584037	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1655862624050	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862638405	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862639163	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862639783	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862645736	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862674610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862674996	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862675585	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1655862734346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862735799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862778006	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862778651	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862800041	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862800433	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655862806958	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655863827441	Marionette	INFO	Stopped listening on port 38831
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1655863827835	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655891638694	geckodriver	INFO	Listening on 127.0.0.1:42490
+1655891638881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEaKUt9"
+1655891640008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEaKUt9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33100/devtools/browser/fb041f3b-c82f-446f-a0c7-d3ea182ededf
+1655891642682	Marionette	INFO	Listening on port 44255
+1655891642773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655891772206	geckodriver	INFO	Listening on 127.0.0.1:45104
+1655891772748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejFDIW3"
+1655891773882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejFDIW3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42455/devtools/browser/85625f6e-e00d-4ceb-8b8a-4bfce69df5cc
+1655891776394	Marionette	INFO	Listening on port 38866
+1655891776467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655891896267	geckodriver	INFO	Listening on 127.0.0.1:45859
+1655891896810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXTQuiy"
+1655891897874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXTQuiy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34309/devtools/browser/93b70506-e260-4a77-a007-a543ff061aa9
+1655891900445	Marionette	INFO	Listening on port 34427
+1655891900525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655891970109	geckodriver	INFO	Listening on 127.0.0.1:54228
+1655891970654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCyYjCn"
+1655891971708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCyYjCn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46541/devtools/browser/2d5a38f9-509a-4f59-9c69-a84030991404
+1655891974189	Marionette	INFO	Listening on port 40890
+1655891974265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655892122317	geckodriver	INFO	Listening on 127.0.0.1:38095
+1655892122860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBMrzvg"
+1655892123954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBMrzvg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44481/devtools/browser/d16a5686-420b-4891-9631-abb7db5cd44f
+1655892126558	Marionette	INFO	Listening on port 46556
+1655892126665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655892463632	geckodriver	INFO	Listening on 127.0.0.1:57543
+1655892463708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB2xdsD"
+1655892464766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB2xdsD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46365/devtools/browser/5fc729bc-0f62-4b19-a163-3e971ed216c2
+1655892467425	Marionette	INFO	Listening on port 42285
+1655892467530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655892878001	geckodriver	INFO	Listening on 127.0.0.1:49105
+1655892878045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC0Nt1K"
+1655892879180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC0Nt1K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59058/devtools/browser/865f3032-2f2a-423b-9725-b731e8938e0a
+1655892881718	Marionette	INFO	Listening on port 34033
+1655892881851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655893221157	geckodriver	INFO	Listening on 127.0.0.1:59428
+1655893221204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelQamqh"
+1655893222318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelQamqh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33987/devtools/browser/e4a67302-647e-4796-b113-d185251fac1f
+1655893224840	Marionette	INFO	Listening on port 46075
+1655893224931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655893506937	geckodriver	INFO	Listening on 127.0.0.1:52060
+1655893506979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9siIa0"
+1655893508069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9siIa0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39624/devtools/browser/aa5fa940-9820-48c3-aee8-f64a252327e1
+1655893510579	Marionette	INFO	Listening on port 34372
+1655893510735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655893682558	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655895848846	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655895924697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655913915261	geckodriver	INFO	Listening on 127.0.0.1:56372
+1655913915860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0ETAOJ"
+1655913917254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0ETAOJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58694/devtools/browser/84ffd30c-92f7-4d8d-8508-d74639b0b665
+1655913920053	Marionette	INFO	Listening on port 40014
+1655913920095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655914056820	geckodriver	INFO	Listening on 127.0.0.1:45594
+1655914056863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Xi37d"
+1655914058021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Xi37d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48585/devtools/browser/72bf7f98-d744-45f6-a18a-82251d1dea3c
+1655914060776	Marionette	INFO	Listening on port 36535
+1655914060869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655914209330	geckodriver	INFO	Listening on 127.0.0.1:34621
+1655914209432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41860" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekhfFB6"
+1655914210628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekhfFB6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41860/devtools/browser/602782ac-833a-4528-82ec-743935a1353a
+1655914213471	Marionette	INFO	Listening on port 33734
+1655914213571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655914428515	geckodriver	INFO	Listening on 127.0.0.1:34727
+1655914429128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekC2Axi"
+1655914430308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekC2Axi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35407/devtools/browser/4abdb82b-5aef-4ca7-aad3-eba122f8015d
+1655914432867	Marionette	INFO	Listening on port 39000
+1655914432979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655914531845	geckodriver	INFO	Listening on 127.0.0.1:46163
+1655914531918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60490" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQIfiaR"
+1655914533006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQIfiaR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60490/devtools/browser/f8fd59b2-f199-439c-9e66-c8112a5084bb
+1655914535788	Marionette	INFO	Listening on port 34939
+1655914535909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655914537994	Marionette	INFO	Stopped listening on port 39000
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1655914538556	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655915090735	geckodriver	INFO	Listening on 127.0.0.1:32800
+1655915090814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelNBP5x"
+1655915091994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelNBP5x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45693/devtools/browser/04b8e5c4-d5c6-4dbd-80ec-603595526cd1
+1655915094765	Marionette	INFO	Listening on port 35778
+1655915094814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655915125842	geckodriver	INFO	Listening on 127.0.0.1:44727
+1655915126386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZRKYYv"
+1655915127616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZRKYYv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34025/devtools/browser/3e411067-459e-40a1-bc18-b807c6c3c3e7
+1655915130270	Marionette	INFO	Listening on port 36763
+1655915130379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655915265960	geckodriver	INFO	Listening on 127.0.0.1:38348
+1655915266511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiRbBP3"
+1655915267822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiRbBP3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60765/devtools/browser/927018df-ad26-4c8b-a5a6-f288334d2439
+1655915270428	Marionette	INFO	Listening on port 43556
+1655915270540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655915636818	geckodriver	INFO	Listening on 127.0.0.1:59245
+1655915637363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqbCoKi"
+1655915638584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqbCoKi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41867/devtools/browser/73783464-cdab-4070-8c7d-9c66d887c311
+1655915641424	Marionette	INFO	Listening on port 44692
+1655915641479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655915917097	geckodriver	INFO	Listening on 127.0.0.1:52268
+1655915917643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37668" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezqxMuT"
+1655915918768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezqxMuT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37668/devtools/browser/03fa9e12-c9d1-4f5f-8da8-d54a34969166
+1655915921486	Marionette	INFO	Listening on port 36027
+1655915921594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655916264654	geckodriver	INFO	Listening on 127.0.0.1:38080
+1655916265371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledW1myV"
+1655916267600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledW1myV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39069/devtools/browser/f58f7a36-e094-4d0d-a925-92aa2341c91c
+1655916270284	Marionette	INFO	Listening on port 39291
+1655916270392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655916282515	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655916339414	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655916341364	Marionette	INFO	Stopped listening on port 39291
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655916342062	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655944837728	geckodriver	INFO	Listening on 127.0.0.1:60755
+1655944838444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea2snwX"
+1655944840022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea2snwX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59645/devtools/browser/a0c1fbd7-59b5-4a41-b15e-2844e2d302bf
+1655944842912	Marionette	INFO	Listening on port 44651
+1655944842956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655944852496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655944953290	geckodriver	INFO	Listening on 127.0.0.1:45896
+1655944953357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU0t2CN"
+1655944954414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU0t2CN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34149/devtools/browser/8d677a5a-f930-42c9-868a-c01c79e019e7
+1655944957042	Marionette	INFO	Listening on port 45444
+1655944957163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655946202771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655946366612	geckodriver	INFO	Listening on 127.0.0.1:45023
+1655946366654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeUDKjD"
+1655946367708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeUDKjD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48437/devtools/browser/6170a97c-73a9-42bb-a10c-f7bb3d03cf4d
+1655946370424	Marionette	INFO	Listening on port 33101
+1655946370538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655987659442	geckodriver	INFO	Listening on 127.0.0.1:45577
+1655987659516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZvM2eI"
+1655987660554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZvM2eI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40459/devtools/browser/a305172c-e046-4229-9db9-c85b85dc97b7
+1655987663297	Marionette	INFO	Listening on port 44236
+1655987663332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655987681789	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655987682772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655987828234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655988059296	Marionette	INFO	Stopped listening on port 44236
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655988059647	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655988511230	geckodriver	INFO	Listening on 127.0.0.1:49945
+1655988511939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58566" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu1IJ0d"
+1655988513586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu1IJ0d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58566/devtools/browser/1d5e5fe6-6500-4196-a70a-e481a25d1a99
+1655988516129	Marionette	INFO	Listening on port 34661
+1655988516158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655988531627	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655988534420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655988535135	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655988727123	geckodriver	INFO	Listening on 127.0.0.1:36339
+1655988727665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeMdRPr"
+1655988728740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeMdRPr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57572/devtools/browser/961d3fef-67c8-40df-bfb2-5d0ff3bfc4e8
+1655988731788	Marionette	INFO	Listening on port 33629
+1655988731959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655988732003	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://bkssl.bdimg.com/static/wiki-common/pkg/utils-bosUploader_81a1865.js, line 4: unreachable code after return statement
+JavaScript warning: https://bkssl.bdimg.com/static/wiki-common/pkg/utils-bosUploader_81a1865.js, line 4: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/nchm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&s1=3083308786&s2=1660840833&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&exps=110261,110254,110011&ant=0&psi=15a9d8c4379bd0ef&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tpr=1655988745159&ti=www%EF%BC%88%E4%B8%87%E7%BB%B4%E7%BD%91%E7%BC%A9%E5%86%99%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0620&dbv=0&drs=3&pcs=1012x605&pss=1139x10214&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1655988745&prot=2&rw=617&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2Fwww%2F109924%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS-5yERhLwMEQKhM01p2zF9uerklK9PHbQKvxuIyYAPKsPbDHNhViw3u3la9nBBdA6zU9GW-KT9aCpUeFCGLpHq%26wd%3D%26eqid%3D9b541a0200021cdc0000000662b46201&eqid=9b541a0200021cdc0000000662b46201&ecd=1&uc=1024x702&pis=-1x-1&sr=1024x768&tcn=1655988745&qn=6ac319dff134a10b&ft=1, line 139: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/nchm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&s1=3083308786&s2=1660840833&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&exps=110261,110254,110011&ant=0&psi=15a9d8c4379bd0ef&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tpr=1655988745159&ti=www%EF%BC%88%E4%B8%87%E7%BB%B4%E7%BD%91%E7%BC%A9%E5%86%99%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0620&dbv=0&drs=3&pcs=1012x605&pss=1139x10214&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1655988745&prot=2&rw=617&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2Fwww%2F109924%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS-5yERhLwMEQKhM01p2zF9uerklK9PHbQKvxuIyYAPKsPbDHNhViw3u3la9nBBdA6zU9GW-KT9aCpUeFCGLpHq%26wd%3D%26eqid%3D9b541a0200021cdc0000000662b46201&eqid=9b541a0200021cdc0000000662b46201&ecd=1&uc=1024x702&pis=-1x-1&sr=1024x768&tcn=1655988745&qn=6ac319dff134a10b&ft=1, line 139: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655989148044	geckodriver	INFO	Listening on 127.0.0.1:43927
+1655989148586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLnNGXd"
+1655989149689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLnNGXd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59267/devtools/browser/a6fd6a86-1d62-466c-8624-6245d77da49e
+1655989152425	Marionette	INFO	Listening on port 37088
+1655989152468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: ReferenceError: $ is not defined
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1655989328052	Marionette	INFO	Stopped listening on port 37088
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655989328419	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1655989341541	geckodriver	INFO	Listening on 127.0.0.1:44400
+1655989342083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekNPD7I"
+1655989343138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekNPD7I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56878/devtools/browser/399f2cc8-e0c4-4b8e-acf9-4070b602be6c
+1655989345658	Marionette	INFO	Listening on port 34024
+1655989345749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655991126175	geckodriver	INFO	Listening on 127.0.0.1:33195
+1655991126217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledB6Mr4"
+1655991127265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledB6Mr4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49168/devtools/browser/9ec443f3-ff0c-49b3-bccd-1acc9a2a0aae
+1655991130073	Marionette	INFO	Listening on port 44204
+1655991130188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655991465150	geckodriver	INFO	Listening on 127.0.0.1:50963
+1655991465192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePYtum5"
+1655991466264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePYtum5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47299/devtools/browser/c0c17a95-db1a-49d8-895e-87687955302e
+1655991468794	Marionette	INFO	Listening on port 36073
+1655991468874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1655992725994	geckodriver	INFO	Listening on 127.0.0.1:43570
+1655992726036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCE2pmj"
+1655992727083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCE2pmj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43475/devtools/browser/bc157d02-f5ae-4d57-bb0e-4696c464c893
+1655992729581	Marionette	INFO	Listening on port 36368
+1655992729628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656001391512	geckodriver	INFO	Listening on 127.0.0.1:45184
+1656001392055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFsFA3m"
+1656001393230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFsFA3m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44054/devtools/browser/67c65c63-35c4-44c0-b610-1cf3a5bd6d70
+1656001395896	Marionette	INFO	Listening on port 35084
+1656001396009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656001405551	geckodriver	INFO	Listening on 127.0.0.1:55283
+1656001405644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePwieXy"
+1656001406789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePwieXy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52369/devtools/browser/7fadfc8f-aad6-43dd-97e6-24374fbfb9f1
+1656001409610	Marionette	INFO	Listening on port 42701
+1656001409657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656001431680	geckodriver	INFO	Listening on 127.0.0.1:51604
+1656001432222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAZP3Dx"
+1656001433287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAZP3Dx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33293/devtools/browser/1b645054-ebe0-44c6-bf86-f9c46676b005
+1656001435789	Marionette	INFO	Listening on port 35816
+1656001435895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656001436428	geckodriver	INFO	Listening on 127.0.0.1:51876
+1656001436971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileynwb2P"
+1656001437797	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656001438342	Marionette	INFO	Marionette enabled
+1656001438675	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileynwb2P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59842/devtools/browser/0015f179-4da1-42f0-b717-0a923781966c
+1656001441456	Marionette	INFO	Listening on port 42804
+1656001441534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656001512982	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656001514844	Marionette	INFO	Stopped listening on port 35816
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1656001515488	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.61d5e649fd22c9e651ad.js, line 1: WebGL context was lost.
+1656001635938	Marionette	INFO	Stopped listening on port 42804
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1656001636503	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1656001645255	geckodriver	INFO	Listening on 127.0.0.1:47562
+1656001645297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileia57Sw"
+1656001646401	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileia57Sw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41458/devtools/browser/3605470a-4a2c-4e68-ba07-6c6a2a11175f
+1656001648971	Marionette	INFO	Listening on port 36590
+1656001648991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656001655556	geckodriver	INFO	Listening on 127.0.0.1:52521
+1656001655643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFmUfBW"
+1656001656872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFmUfBW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53993/devtools/browser/94eebfd6-281d-4758-a7f2-0adc5d2a9740
+1656001659902	Marionette	INFO	Listening on port 40648
+1656001659991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656034859566	geckodriver	INFO	Listening on 127.0.0.1:57396
+1656034860294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesoD1fF"
+1656034861722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesoD1fF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56825/devtools/browser/0cc5fa32-9820-4bab-a8b5-650dc05bfbf1
+1656034864447	Marionette	INFO	Listening on port 40112
+1656034864502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656038146282	geckodriver	INFO	Listening on 127.0.0.1:57401
+1656038146324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2sZobb"
+1656038147409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2sZobb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59957/devtools/browser/322c28c5-903f-4500-8a34-3c0bfa03ad78
+1656038149958	Marionette	INFO	Listening on port 38221
+1656038150059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038158454	geckodriver	INFO	Listening on 127.0.0.1:46902
+1656038158500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerpgQF9"
+1656038159597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerpgQF9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42711/devtools/browser/e62f354f-862c-49f6-be9f-c37022cadb47
+1656038162372	Marionette	INFO	Listening on port 46400
+1656038162439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038167156	Marionette	INFO	Stopped listening on port 46400
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1656038167706	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1656038168068	Marionette	INFO	Stopped listening on port 38221
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1656038168842	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1656038301275	geckodriver	INFO	Listening on 127.0.0.1:36642
+1656038301818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0mMZd2"
+1656038302942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0mMZd2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53329/devtools/browser/aea4f43e-5db4-4dde-8eba-d79dffc3b22e
+1656038305566	Marionette	INFO	Listening on port 46270
+1656038305681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038313259	geckodriver	INFO	Listening on 127.0.0.1:41846
+1656038313347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile636Xp7"
+1656038314485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile636Xp7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59209/devtools/browser/2a732491-8da3-4e96-906c-279083cf1f70
+1656038317093	Marionette	INFO	Listening on port 36413
+1656038317179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656038445551	geckodriver	INFO	Listening on 127.0.0.1:35509
+1656038446096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJxXbEI"
+1656038447190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJxXbEI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60274/devtools/browser/90bbc4f9-9eb6-4a6f-b0b0-b2b5bb604838
+1656038449799	Marionette	INFO	Listening on port 34303
+1656038449975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038456673	geckodriver	INFO	Listening on 127.0.0.1:34129
+1656038456756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUENUuT"
+1656038457993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUENUuT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36120/devtools/browser/f10ab0c3-454b-40f5-a9de-67f251caaf6c
+1656038460621	Marionette	INFO	Listening on port 36684
+1656038460718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656038479224	geckodriver	INFO	Listening on 127.0.0.1:57834
+1656038479289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletDGLrO"
+1656038480425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletDGLrO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37157/devtools/browser/bbdab339-c635-487d-bd50-87c57f446fec
+1656038482890	Marionette	INFO	Listening on port 39199
+1656038482996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038483666	geckodriver	INFO	Listening on 127.0.0.1:34866
+1656038484207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWk1AKi"
+1656038485331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWk1AKi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55264/devtools/browser/20388ad9-898b-448b-9bcc-1bd2dd62f33c
+1656038488139	Marionette	INFO	Listening on port 44686
+1656038488238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656038554098	geckodriver	INFO	Listening on 127.0.0.1:37381
+1656038554641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekmnTw4"
+1656038555740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekmnTw4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50552/devtools/browser/b472fb39-b724-43ff-b341-59e911005cd4
+1656038558346	Marionette	INFO	Listening on port 37124
+1656038558455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038559270	geckodriver	INFO	Listening on 127.0.0.1:47387
+1656038559812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLphQHK"
+1656038560919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLphQHK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50978/devtools/browser/2e49e100-61cd-4b4b-b336-0d866f226f77
+1656038563777	Marionette	INFO	Listening on port 46582
+1656038563905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656038675273	geckodriver	INFO	Listening on 127.0.0.1:57759
+1656038675319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE2O4At"
+1656038676449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE2O4At/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36227/devtools/browser/e0ff5b05-7afb-45ca-b9ca-e43c58e95cf9
+1656038678949	Marionette	INFO	Listening on port 33199
+1656038679021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038688723	geckodriver	INFO	Listening on 127.0.0.1:43768
+1656038689265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXji4iJ"
+1656038690380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXji4iJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47674/devtools/browser/c7a2f8b0-9929-4ece-bbb0-f374baccdc0d
+1656038693383	Marionette	INFO	Listening on port 36866
+1656038693461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656038832570	geckodriver	INFO	Listening on 127.0.0.1:52850
+1656038832613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOufgqG"
+1656038833733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOufgqG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56457/devtools/browser/d7c5acfd-942a-4066-bbbb-fab5ab83a346
+1656038836314	Marionette	INFO	Listening on port 40053
+1656038836401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038844270	geckodriver	INFO	Listening on 127.0.0.1:40034
+1656038844355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemM1WIp"
+1656038845543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemM1WIp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56027/devtools/browser/b0c5d27f-5771-42e0-bbef-f679c6ea11ff
+1656038848277	Marionette	INFO	Listening on port 42896
+1656038848414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656038952961	geckodriver	INFO	Listening on 127.0.0.1:36130
+1656038953003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelqf5Nn"
+1656038954143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelqf5Nn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51101/devtools/browser/25677955-be51-4bce-af3c-56627a8e91c9
+1656038956808	Marionette	INFO	Listening on port 37553
+1656038956905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656038957347	geckodriver	INFO	Listening on 127.0.0.1:48940
+1656038957893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBOolph"
+1656038959000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBOolph/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43838/devtools/browser/9cfc6a27-3f50-486d-be4e-34b2c039a9b3
+1656038961650	Marionette	INFO	Listening on port 40918
+1656038961707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656039519623	geckodriver	INFO	Listening on 127.0.0.1:53396
+1656039519664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewMZb33"
+1656039520748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewMZb33/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53655/devtools/browser/2d358a16-8710-45c8-a13f-44ab204a52db
+1656039523310	Marionette	INFO	Listening on port 43179
+1656039523425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656039530897	geckodriver	INFO	Listening on 127.0.0.1:47941
+1656039531441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqeMfWv"
+1656039532672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqeMfWv/search.json.mozlz4", (void 0)))
+1656039534571	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+DevTools listening on ws://localhost:33960/devtools/browser/25898045-7ae5-4c02-a70d-a3f778e5953f
+1656039536215	Marionette	INFO	Listening on port 36663
+1656039536290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656039536690	Marionette	INFO	Stopped listening on port 36663
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1656039537629	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656039816435	geckodriver	INFO	Listening on 127.0.0.1:46831
+1656039816477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSgt9Jc"
+1656039817632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSgt9Jc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55253/devtools/browser/fddea03d-2248-4dd8-926b-8bd367e4d0ff
+1656039820270	Marionette	INFO	Listening on port 35845
+1656039820386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1656317271699	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1656347024498	geckodriver	INFO	Listening on 127.0.0.1:7175
+1656347027546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofileX6SpLi"
+1656347028046	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:7176
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofileX6SpLi\\search.json.mozlz4", (void 0)))
+1656347029829	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not load engine google@search.mozilla.org: Error: Attempt to use XPI database when it is not initialized"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656347056699	geckodriver	INFO	Listening on 127.0.0.1:7200
+1656347059750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofilem77brS"
+1656347060114	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:7201
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofilem77brS\\search.json.mozlz4", (void 0)))
+1656347062020	Marionette	INFO	Listening on port 7218
+Read port: 7218
+1656347062070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:7201/devtools/browser/a139c613-ae7b-4bd6-9492-973a4c3333cb
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1656347097655	geckodriver	INFO	Listening on 127.0.0.1:7289
+1656347100731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofileA5mXTt"
+1656347101103	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:7290
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofileA5mXTt\\search.json.mozlz4", (void 0)))
+1656347102977	Marionette	INFO	Listening on port 7305
+DevTools listening on ws://localhost:7290/devtools/browser/76470bbe-6545-4ae7-ba8f-d513c4b041bd
+Read port: 7305
+1656347103056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+1656347200051	geckodriver	INFO	Listening on 127.0.0.1:7381
+1656347203119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofileE3ip6m"
+1656347203469	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:7382
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\86198\\AppData\\Local\\Temp\\rust_mozprofileE3ip6m\\search.json.mozlz4", (void 0)))
+1656347205399	Marionette	INFO	Listening on port 7398
+Read port: 7398
+1656347205444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:7382/devtools/browser/422b00a3-f1ef-4f28-a378-36e0562283ab
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/js/jspublic.js, line 6656: TypeError: $(...).on is not a function
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/engine.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/util.js, line 5: SyntaxError: expected expression, got '<'
+JavaScript error: http://csujwc.its.csu.edu.cn/dwr/interface/dwrMonitor.js, line 5: SyntaxError: expected expression, got '<'
